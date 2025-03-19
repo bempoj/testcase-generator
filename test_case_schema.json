@@ -1,0 +1,11 @@
+{
+  "schema": {
+    "Test Case ID": "Unique identifier for the test case (e.g., TC001)",
+    "Title": "Short, clear description of what is being tested",
+    "Description": "Detailed explanation of the scenario being tested",
+    "Preconditions": "Any setup or requirements needed before executing the test",
+    "Steps": ["Step 1", "Step 2", "Step 3"],
+    "Expected Result": "What should happen if the test passes",
+    "Priority": ["High", "Medium", "Low"]
+  }
+}
